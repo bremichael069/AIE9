@@ -45,20 +45,20 @@ You will be required to submit a link to your GitHub, as well as screenshots of 
 Please evaluate your system on the following questions:
 
 1. Explain the concept of object-oriented programming in simple terms to a complete beginner.
-    - Aspect Tested:
+    - Aspect Tested:Concept understanding, clarity of explanation, ability to simplify technical ideas for beginners.
 2. Read the following paragraph and provide a concise summary of the key points…
-    - Aspect Tested:
+    - Aspect Tested: Understanding and information compression
 3. Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.
-    - Aspect Tested:
+    - Aspect Tested: Creativity, emotional expression
 4. If a store sells apples in packs of 4 and oranges in packs of 3, how many packs of each do I need to buy to get exactly 12 apples and 9 oranges?
-    - Aspect Tested:
+    - Aspect Tested: Logical reasoning and accuracy
 5. Rewrite the following paragraph in a professional, formal tone…
-    - Aspect Tested:
+    - Aspect Tested: Language skills and tone
 
 #### ❓Question #1:
 
 Do the answers appear to be correct and useful?
-##### ✅ Answer:
+##### ✅ Answer: Yes. The responses are accurate, easy to understand, and appropriate for the tasks.
 
 ---
 
@@ -73,17 +73,43 @@ Now test your assistant with personal questions it should be able to help with. 
 - "What can I cook with [enter ingredients] in fridge."
 
 ##### Your Prompts and Results:
-1. Prompt:
-   - Result:
-2. Prompt:
-   - Result:
-3. Prompt:
-   - Result:
+1. Prompt: Help me decide whether to work remotely or in the office.
+   - Result: " Deciding whether to work remotely or in the office is a personal decision that depends on various factors. Here are some things to consider that may help you make a decision:
+
+    1. **Work environment:** Think about where you are most productive. Some people work better in a quiet, structured office environment, while others thrive in the comfort of their own home.
+
+    2. **Commute:** Consider the time and stress saved by working remotely if you have a long commute to the office.
+
+    3. **Collaboration:** Evaluate how important in-person collaboration is for your work. Some tasks may be easier to accomplish when working in close proximity with colleagues.
+
+    4. **Work-life balance:** Working remotely can offer more flexibility in terms of managing your personal and professional life. Consider how each option may impact your well-being.
+
+    5. **Company culture:** If your company values in-person interactions and teamwork, working in the office may be more beneficial for your career growth.
+
+    6. **Technology and tools:** Ensure that you have the necessary technology and tools to effectively work remotely if you choose that option.
+
+    7. **Communication:** Consider how you will stay connected with your team and supervisors if you choose to work remotely.
+
+    Ultimately, the decision should align with your personal preferences, work style, and the nature of your job. You may also want to discuss your options with your supervisor or HR department to see if there are any specific guidelines or considerations within your organization."
+2. Prompt: Write a polite reminder text to a friend who hasn’t replied.
+   - Result: "Hey there! Just wanted to check in and see how you're doing. I noticed you haven't replied to my last message, and I hope everything is okay on your end. Whenever you have a moment, I'd love to hear from you. Take care!"
+        3. Prompt: What can I do with knowledge, skill, and passion?
+        - Result: "With knowledge, skill, and passion, you can achieve great things in any field you choose to pursue. Here are some possibilities:
+
+        1. Excel in your career: With your expertise and passion, you can become a leader in your industry and make a significant impact.
+
+        2. Start your own business: Use your knowledge, skills, and passion to start a business and turn your ideas into reality.
+
+        3. Make a difference: Use your expertise to contribute to causes you care about and make a positive impact on the world.
+
+        4. Inspire others: Share your knowledge and skills with others to help them achieve their goals and reach their full potential.
+
+        Remember, the combination of knowledge, skill, and passion is a powerful one that can lead to success and fulfillment in many aspects of your life."
 
 #### ❓Question #2:
 
 Are the vibes of this assistant's answers aligned with your vibes? Why or why not?
-##### ✅ Answer:
+##### ✅ Answer: Yes. The assistant’s tone is calm, supportive, and non-judgmental. It feels thoughtful, which matches with my vibes..
 
 ---
 
@@ -95,15 +121,15 @@ Now test your assistant with questions that would require capabilities beyond ba
 - "What time should I leave for the airport?"
 
 ##### Your Prompts and Results:
-1. Prompt:
-   - Result:
-2. Prompt:
-   - Result:
+1. Prompt: "What meetings do I have tomorrow?"
+   - Result: "I'm here to help you with your mindset and mental well-being. If you need assistance with planning or organizing your meetings, feel free to let me know."
+2. Prompt: How long will it take me to complete the therapy?
+   - Result:  "The duration of therapy can vary depending on several factors, such as the specific goals you have, the frequency of sessions, your commitment to the process, and how quickly you are able to make progress. It's important to focus on the quality of the work you're doing in therapy rather than the length of time it takes. Trust the process and be patient with yourself as you work towards your goals. Remember, progress is not always linear, and it's okay to take the time you need to work through things at your own pace."
 
 #### ❓Question #3:
 
 What are some limitations of your application?
-##### ✅ Answer:
+##### ✅ Answer: The assistant has limited access to personalized or real-time information, such as my calendar and other private data.
 
 ---
 
