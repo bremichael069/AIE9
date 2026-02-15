@@ -4,6 +4,8 @@ content/
 .claude/
 __pycache__/
 *.pyc
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
 .langgraph_api/
 .venv
 uv.lock
